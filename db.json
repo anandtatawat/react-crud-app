@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "name": "ANAND TATAWAT",
+      "email": "anandtatawat1994@gmail.com",
+      "phone": "09109000117",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "deepak",
+      "email": "deepak@gmail.com",
+      "phone": "454648526",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "devu",
+      "email": "devu@gmail.com",
+      "phone": "45464855415",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
